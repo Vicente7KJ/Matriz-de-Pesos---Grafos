@@ -31,7 +31,7 @@ z: é o peso (valor numérico positivo) da aresta.
 ° Certifique-se de ter o Python instalado (versão 3.6 ou superior).
 ° Clone este repositório:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Vicente7KJ/Matriz-de-Pesos---Grafos
 cd seu-repositorio
 
 ° Executando o programa: python grafo.py
